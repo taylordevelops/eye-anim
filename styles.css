@@ -128,7 +128,7 @@ svg.eye {
 @-webkit-keyframes spin3 { 50% { -webkit-transform: rotate(-360deg); } }
 @keyframes spin3 { 50% { -webkit-transform: rotate(-360deg); transform:rotate(-360deg); } }
 
-/* Desktop Size Media Query */
+
 @media only screen and (min-width: 600px) {
 
     svg.eye {
@@ -143,5 +143,5 @@ svg.eye {
         max-width: 20rem;
         padding: 5rem;
     }
-
 }
+
